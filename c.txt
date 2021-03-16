@@ -1,9 +1,0 @@
-C nin toplampuani:185
-C nin hedefi: 0 ,0
-C nin yeni konumu17,18
-C nin toplampuani:175
-C nin hedefi: 0 ,0
-C nin yeni konumu16,17
-C nin toplampuani:195
-C nin hedefi: 0 ,0
-C nin yeni konumu19,19
